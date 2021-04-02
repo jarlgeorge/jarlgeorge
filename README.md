@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarlgeorge
 - 👀 I’m planning to change career.
 - 🌱 I’m currently learning the basics of programming.
-- 💞️ 
+- 💞️ I'm not yet sure how I'll be able to utilize GitHub.
 - 📫 
 
 <!---
